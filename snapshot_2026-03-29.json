@@ -4,7 +4,6 @@
     {
       "ticker": "SOXS",
       "strategy": "SHORT",
-      "combination": "N3:S-_V-_T-_A-|N7:S-_V-_T-_A-|N10:S-_V-_T-_A-|N20:S-_V-_T+_A+|N23:S-_V-_T+_A+|N30:S-_V-_T+_A+",
       "entry_date": "2026-02-24",
       "entry_price": 33.400001525878906,
       "shares": 40,
@@ -15,7 +14,6 @@
     {
       "ticker": "SOXS",
       "strategy": "SHORT",
-      "combination": "N10:S-_V-_T-_A-|N13:S-_V-_T-_A-|N20:S-_V-_T+_A+|N30:S-_V-_T+_A+",
       "entry_date": "2026-02-25",
       "entry_price": 32.0,
       "shares": 40,
@@ -26,7 +24,6 @@
     {
       "ticker": "SOXS",
       "strategy": "SHORT",
-      "combination": "N5:S-_V-_T-_A-|N15:S-_V-_T+_A+|N23:S-_V-_T+_A+",
       "entry_date": "2026-03-05",
       "entry_price": 39.59000015258789,
       "shares": 40,
@@ -37,7 +34,6 @@
     {
       "ticker": "SOXS",
       "strategy": "SHORT",
-      "combination": "N23:S-_V-_T+_A-|N30:S-_V-_T+_A+",
       "entry_date": "2026-03-06",
       "entry_price": 43.41999816894531,
       "shares": 40,
@@ -48,7 +44,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N7:S-_V-_T-_A-|N20:S+_V+_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-16",
       "entry_price": 54.060001373291016,
       "shares": 50,
@@ -59,7 +54,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N15:S-_V-_T-_A-|N20:S+_V+_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-16",
       "entry_price": 54.060001373291016,
       "shares": 50,
@@ -70,7 +64,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N7:S-_V-_T-_A-|N20:S+_V+_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-17",
       "entry_price": 55.099998474121094,
       "shares": 50,
@@ -81,7 +74,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N14:S-_V-_T-_A-|N23:S+_V+_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-18",
       "entry_price": 55.029998779296875,
       "shares": 50,
@@ -92,7 +84,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N3:S-_V+_T+_A+|N10:S+_V+_T-_A-|N23:S+_V+_T-_A-",
       "entry_date": "2026-03-18",
       "entry_price": 55.029998779296875,
       "shares": 50,
@@ -103,7 +94,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N3:S-_V+_T+_A+|N10:S+_V+_T-_A-|N23:S+_V+_T-_A-",
       "entry_date": "2026-03-19",
       "entry_price": 49.529998779296875,
       "shares": 50,
@@ -114,7 +104,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N3:S-_V-_T-_A-|N5:S-_V-_T-_A-|N14:S+_V+_T-_A-|N25:S+_V+_T-_A-",
       "entry_date": "2026-03-24",
       "entry_price": 51.540000915527344,
       "shares": 50,
@@ -125,7 +114,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N7:S-_V-_T+_A+|N23:S-_V-_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-24",
       "entry_price": 51.540000915527344,
       "shares": 50,
@@ -136,7 +124,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N3:S-_V-_T-_A-|N5:S-_V-_T-_A-|N15:S-_V-_T-_A-|N25:S+_V+_T-_A-",
       "entry_date": "2026-03-24",
       "entry_price": 51.540000915527344,
       "shares": 50,
@@ -147,7 +134,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N7:S-_V-_T+_A+|N23:S-_V-_T-_A-|N25:S-_V-_T-_A-",
       "entry_date": "2026-03-25",
       "entry_price": 56.63999938964844,
       "shares": 50,
@@ -158,7 +144,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N7:S-_V-_T+_A+|N23:S-_V-_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-25",
       "entry_price": 56.63999938964844,
       "shares": 50,
@@ -169,7 +154,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N7:S-_V-_T+_A+|N25:S-_V-_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-25",
       "entry_price": 56.63999938964844,
       "shares": 50,
@@ -180,7 +164,6 @@
     {
       "ticker": "SOXS",
       "strategy": "SHORT",
-      "combination": "N14:S-_V-_T+_A+|N30:S-_V-_T+_A-",
       "entry_date": "2026-03-26",
       "entry_price": 37.84000015258789,
       "shares": 40,
@@ -191,7 +174,6 @@
     {
       "ticker": "SOXL",
       "strategy": "LONG",
-      "combination": "N5:S-_V-_T+_A+|N20:S-_V-_T-_A-|N30:S-_V-_T-_A-",
       "entry_date": "2026-03-27",
       "entry_price": 48.040000915527344,
       "shares": 50,
