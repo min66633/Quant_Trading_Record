@@ -1,0 +1,90 @@
+{
+  "trading_date": "2026-04-01",
+  "snapshot_time": "2026-04-02 10:43:43 KST",
+  "cash": 59303.601168823225,
+  "positions_count": 22,
+  "long_count": 20,
+  "short_count": 2,
+  "total_trades": 63,
+  "win_rate": "47/63 (74.6%)",
+  "realized_pnl": 11733.0,
+  "latest_portfolio_value": 115088.40116882323,
+  "portfolio_return": "+15.09%",
+  "entries": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-08",
+      "magnitude_score": 5.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-08",
+      "magnitude_score": 4.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-15",
+      "magnitude_score": 4.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-15",
+      "magnitude_score": 5.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-15",
+      "magnitude_score": 5.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-08",
+      "magnitude_score": 5.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-08",
+      "magnitude_score": 4.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-08",
+      "magnitude_score": 5.3
+    }
+  ],
+  "entries_count": 8,
+  "entries_long": 8,
+  "entries_short": 0
+}
