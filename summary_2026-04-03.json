@@ -1,0 +1,13 @@
+{
+  "trading_date": "2026-04-03",
+  "snapshot_time": "2026-04-03 00:18:12 KST",
+  "cash": 20152.60116882322,
+  "positions_count": 39,
+  "long_count": 37,
+  "short_count": 2,
+  "total_trades": 63,
+  "win_rate": "47/63 (74.6%)",
+  "realized_pnl": 11733.0,
+  "latest_portfolio_value": 107379.85616882317,
+  "portfolio_return": "+7.38%"
+}
