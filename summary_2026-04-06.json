@@ -1,0 +1,36 @@
+{
+  "trading_date": "2026-04-06",
+  "snapshot_time": "2026-04-07 06:26:29 KST",
+  "cash": 20342.651168823224,
+  "positions_count": 38,
+  "long_count": 38,
+  "short_count": 0,
+  "total_trades": 66,
+  "win_rate": "48/66 (72.7%)",
+  "realized_pnl": 11575.65,
+  "latest_portfolio_value": 125301.30216882317,
+  "portfolio_return": "+25.30%",
+  "entries": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 53.75,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-20",
+      "magnitude_score": 4.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 53.75,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 4.3
+    }
+  ],
+  "entries_count": 2,
+  "entries_long": 2,
+  "entries_short": 0
+}
