@@ -1,0 +1,1619 @@
+{
+  "cash": 6529.151181030262,
+  "positions": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-24",
+      "entry_price": 51.540000915527344,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-04-21",
+      "magnitude_score": 8.5
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-24",
+      "entry_price": 51.540000915527344,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-04-21",
+      "magnitude_score": 8.5
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 17,
+      "target_exit_date": "2026-04-22",
+      "magnitude_score": 4.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 4.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 6.25
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 4.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 6.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "entry_price": 47.86000061035156,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 6.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-15",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-15",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "entry_price": 50.04,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-15",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 17,
+      "target_exit_date": "2026-04-28",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 5.25
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 5.5
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-17",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-02",
+      "entry_price": 46.06,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-10",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-06",
+      "entry_price": 53.75,
+      "shares": 50,
+      "hold_days": 10,
+      "target_exit_date": "2026-04-20",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-06",
+      "entry_price": 53.75,
+      "shares": 50,
+      "hold_days": 5,
+      "target_exit_date": "2026-04-13",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 23,
+      "target_exit_date": "2026-05-11",
+      "magnitude_score": 4.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 23,
+      "target_exit_date": "2026-05-11",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-05-06",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-05-06",
+      "magnitude_score": 4.2
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-05-06",
+      "magnitude_score": 4.5
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 23,
+      "target_exit_date": "2026-05-11",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-05-06",
+      "magnitude_score": 4.3
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 17,
+      "target_exit_date": "2026-05-01",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-08",
+      "entry_price": 66.33,
+      "shares": 50,
+      "hold_days": 20,
+      "target_exit_date": "2026-05-06",
+      "magnitude_score": 4.0
+    }
+  ],
+  "trade_history": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-01-14",
+      "entry_price": 50.349998474121094,
+      "exit_price": 60.959999084472656,
+      "shares": 50,
+      "pnl_pct": 21.072494402963883,
+      "pnl_dollar": 530.5000305175781,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-01-15",
+      "entry_price": 51.79999923706055,
+      "exit_price": 61.189998626708984,
+      "shares": 50,
+      "pnl_pct": 18.127412216118955,
+      "pnl_dollar": 469.4999694824219,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-01-20",
+      "entry_price": 50.349998474121094,
+      "exit_price": 60.2400016784668,
+      "shares": 50,
+      "pnl_pct": 19.642509442038957,
+      "pnl_dollar": 494.50016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-07",
+      "exit_date": "2026-01-22",
+      "entry_price": 49.20000076293945,
+      "exit_price": 39.20000076293945,
+      "shares": 40,
+      "pnl_pct": -20.32520293685164,
+      "pnl_dollar": -400.0,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 3.5
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-14",
+      "exit_date": "2026-01-28",
+      "entry_price": 46.0,
+      "exit_price": 35.20000076293945,
+      "shares": 40,
+      "pnl_pct": -23.478259211001184,
+      "pnl_dollar": -431.9999694824219,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-01-30",
+      "entry_price": 51.79999923706055,
+      "exit_price": 59.459999084472656,
+      "shares": 50,
+      "pnl_pct": 14.787644710874304,
+      "pnl_dollar": 382.99999237060547,
+      "reason": "EXPIRED",
+      "magnitude_score": 6.75
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.75
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.25
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.75
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.6
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.833333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-03",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 18.05362547778422,
+      "pnl_dollar": 454.50000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.25
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-02-03",
+      "entry_price": 51.79999923706055,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 14.749033787981913,
+      "pnl_dollar": 381.9999694824219,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-02-03",
+      "entry_price": 51.79999923706055,
+      "exit_price": 59.439998626708984,
+      "shares": 50,
+      "pnl_pct": 14.749033787981913,
+      "pnl_dollar": 381.9999694824219,
+      "reason": "EXPIRED",
+      "magnitude_score": 6.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-06",
+      "exit_date": "2026-02-04",
+      "entry_price": 51.11000061035156,
+      "exit_price": 51.310001373291016,
+      "shares": 50,
+      "pnl_pct": 0.39131434269430443,
+      "pnl_dollar": 10.000038146972656,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-21",
+      "exit_date": "2026-02-04",
+      "entry_price": 41.79999923706055,
+      "exit_price": 46.20000076293945,
+      "shares": 40,
+      "pnl_pct": 10.526319632029546,
+      "pnl_dollar": 176.00006103515625,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-26",
+      "exit_date": "2026-02-04",
+      "entry_price": 41.20000076293945,
+      "exit_price": 46.20000076293945,
+      "shares": 40,
+      "pnl_pct": 12.135922105364717,
+      "pnl_dollar": 200.0,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.5
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.4
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.4
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "exit_date": "2026-02-06",
+      "entry_price": 50.349998474121094,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 19.145985097299413,
+      "pnl_dollar": 482.00016021728516,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-02-06",
+      "entry_price": 51.79999923706055,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 15.810815756820862,
+      "pnl_dollar": 409.5001220703125,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-02-06",
+      "entry_price": 51.79999923706055,
+      "exit_price": 59.9900016784668,
+      "shares": 50,
+      "pnl_pct": 15.810815756820862,
+      "pnl_dollar": 409.5001220703125,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-06",
+      "exit_date": "2026-02-09",
+      "entry_price": 51.11000061035156,
+      "exit_price": 64.66999816894531,
+      "shares": 50,
+      "pnl_pct": 26.5310064501298,
+      "pnl_dollar": 677.9998779296875,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-06",
+      "exit_date": "2026-02-09",
+      "entry_price": 51.11000061035156,
+      "exit_price": 64.66999816894531,
+      "shares": 50,
+      "pnl_pct": 26.5310064501298,
+      "pnl_dollar": 677.9998779296875,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-06",
+      "exit_date": "2026-02-09",
+      "entry_price": 51.11000061035156,
+      "exit_price": 64.66999816894531,
+      "shares": 50,
+      "pnl_pct": 26.5310064501298,
+      "pnl_dollar": 677.9998779296875,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "exit_date": "2026-02-13",
+      "entry_price": 51.79999923706055,
+      "exit_price": 62.02000045776367,
+      "shares": 50,
+      "pnl_pct": 19.72973237689004,
+      "pnl_dollar": 511.00006103515625,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-10",
+      "exit_date": "2026-02-18",
+      "entry_price": 35.79999923706055,
+      "exit_price": 35.599998474121094,
+      "shares": 40,
+      "pnl_pct": -0.5586613608986046,
+      "pnl_dollar": -8.000030517578125,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-16",
+      "exit_date": "2026-02-24",
+      "entry_price": 41.400001525878906,
+      "exit_price": 32.0,
+      "shares": 40,
+      "pnl_pct": -22.705316858510304,
+      "pnl_dollar": -376.00006103515625,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-22",
+      "exit_date": "2026-02-27",
+      "entry_price": 37.400001525878906,
+      "exit_price": 38.599998474121094,
+      "shares": 40,
+      "pnl_pct": 3.2085478590471395,
+      "pnl_dollar": 47.9998779296875,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-20",
+      "exit_date": "2026-02-27",
+      "entry_price": 36.0,
+      "exit_price": 38.599998474121094,
+      "shares": 40,
+      "pnl_pct": 7.22221798366971,
+      "pnl_dollar": 103.99993896484375,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.3333333333333335
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-26",
+      "exit_date": "2026-03-03",
+      "entry_price": 32.0,
+      "exit_price": 39.400001525878906,
+      "shares": 40,
+      "pnl_pct": 23.125004768371582,
+      "pnl_dollar": 296.00006103515625,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.25
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-03-03",
+      "exit_date": "2026-03-06",
+      "entry_price": 40.0,
+      "exit_price": 47.279998779296875,
+      "shares": 40,
+      "pnl_pct": 18.19999694824219,
+      "pnl_dollar": 291.199951171875,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-03-04",
+      "exit_date": "2026-03-11",
+      "entry_price": 39.400001525878906,
+      "exit_price": 39.5,
+      "shares": 40,
+      "pnl_pct": 0.2538032239806087,
+      "pnl_dollar": 3.99993896484375,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.6666666666666665
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-09",
+      "exit_date": "2026-03-12",
+      "entry_price": 45.5099983215332,
+      "exit_price": 51.880001068115234,
+      "shares": 50,
+      "pnl_pct": 13.996930304363575,
+      "pnl_dollar": 318.50013732910156,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-09",
+      "exit_date": "2026-03-12",
+      "entry_price": 45.5099983215332,
+      "exit_price": 51.880001068115234,
+      "shares": 50,
+      "pnl_pct": 13.996930304363575,
+      "pnl_dollar": 318.50013732910156,
+      "reason": "EXPIRED",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-13",
+      "exit_date": "2026-03-16",
+      "entry_price": 35.79999923706055,
+      "exit_price": 37.93000030517578,
+      "shares": 40,
+      "pnl_pct": 5.9497237807486725,
+      "pnl_dollar": 85.20004272460938,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.6
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-11",
+      "exit_date": "2026-03-17",
+      "entry_price": 34.400001525878906,
+      "exit_price": 38.029998779296875,
+      "shares": 40,
+      "pnl_pct": 10.552317129076716,
+      "pnl_dollar": 145.19989013671875,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-12",
+      "exit_date": "2026-03-18",
+      "entry_price": 33.0,
+      "exit_price": 42.0,
+      "shares": 40,
+      "pnl_pct": 27.27272727272727,
+      "pnl_dollar": 360.0,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.8
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-18",
+      "exit_date": "2026-03-18",
+      "entry_price": 35.0,
+      "exit_price": 42.0,
+      "shares": 40,
+      "pnl_pct": 19.999999999999996,
+      "pnl_dollar": 280.0,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.4
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-17",
+      "exit_date": "2026-03-24",
+      "entry_price": 37.0,
+      "exit_price": 36.31999969482422,
+      "shares": 40,
+      "pnl_pct": -1.8378386626372478,
+      "pnl_dollar": -27.20001220703125,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.6666666666666665
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-18",
+      "exit_date": "2026-03-25",
+      "entry_price": 55.029998779296875,
+      "exit_price": 54.189998626708984,
+      "shares": 50,
+      "pnl_pct": -1.5264404347105187,
+      "pnl_dollar": -42.00000762939453,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.666666666666667
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-18",
+      "exit_date": "2026-03-27",
+      "entry_price": 55.029998779296875,
+      "exit_price": 47.86000061035156,
+      "shares": 50,
+      "pnl_pct": -13.029253730681123,
+      "pnl_dollar": -358.4999084472656,
+      "reason": "EXPIRED",
+      "magnitude_score": 6.666666666666667
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-03-26",
+      "exit_date": "2026-03-31",
+      "entry_price": 37.84000015258789,
+      "exit_price": 45.56,
+      "shares": 40,
+      "pnl_pct": 20.401690846410148,
+      "pnl_dollar": 308.79999389648447,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-25",
+      "exit_date": "2026-03-31",
+      "entry_price": 56.63999938964844,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -23.658191267737593,
+      "pnl_dollar": -669.9999694824219,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-25",
+      "exit_date": "2026-03-31",
+      "entry_price": 56.63999938964844,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -23.658191267737593,
+      "pnl_dollar": -669.9999694824219,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-25",
+      "exit_date": "2026-03-31",
+      "entry_price": 56.63999938964844,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -23.658191267737593,
+      "pnl_dollar": -669.9999694824219,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-24",
+      "exit_date": "2026-03-31",
+      "entry_price": 51.540000915527344,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -16.10399838589607,
+      "pnl_dollar": -415.0000457763672,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-19",
+      "exit_date": "2026-03-31",
+      "entry_price": 49.529998779296875,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -12.69937196510903,
+      "pnl_dollar": -314.49993896484375,
+      "reason": "EXPIRED",
+      "magnitude_score": 7.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-18",
+      "exit_date": "2026-03-31",
+      "entry_price": 55.029998779296875,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -21.424675705667017,
+      "pnl_dollar": -589.4999389648438,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-17",
+      "exit_date": "2026-03-31",
+      "entry_price": 55.099998474121094,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -21.52449873422664,
+      "pnl_dollar": -592.9999237060547,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-16",
+      "exit_date": "2026-03-31",
+      "entry_price": 54.060001373291016,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -20.014800404050238,
+      "pnl_dollar": -541.0000686645508,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-16",
+      "exit_date": "2026-03-31",
+      "entry_price": 54.060001373291016,
+      "exit_price": 43.24,
+      "shares": 50,
+      "pnl_pct": -20.014800404050238,
+      "pnl_dollar": -541.0000686645508,
+      "reason": "STOP_LOSS",
+      "magnitude_score": 8.333333333333334
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-25",
+      "exit_date": "2026-03-31",
+      "entry_price": 32.0,
+      "exit_price": 45.56,
+      "shares": 40,
+      "pnl_pct": 42.37500000000001,
+      "pnl_dollar": 542.4000000000001,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.75
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-24",
+      "exit_date": "2026-03-31",
+      "entry_price": 33.400001525878906,
+      "exit_price": 45.56,
+      "shares": 40,
+      "pnl_pct": 36.40717939698091,
+      "pnl_dollar": 486.39993896484384,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.5
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-03-06",
+      "exit_date": "2026-04-03",
+      "entry_price": 43.41999816894531,
+      "exit_price": 36.36,
+      "shares": 40,
+      "pnl_pct": -16.259784584686464,
+      "pnl_dollar": -282.3999267578124,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-27",
+      "exit_date": "2026-04-07",
+      "entry_price": 48.040000915527344,
+      "exit_price": 54.285,
+      "shares": 50,
+      "pnl_pct": 12.99958152676506,
+      "pnl_dollar": 312.2499542236328,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.0
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-03-05",
+      "exit_date": "2026-04-07",
+      "entry_price": 39.59000015258789,
+      "exit_price": 34.91,
+      "shares": 40,
+      "pnl_pct": -11.821167301212999,
+      "pnl_dollar": -187.20000610351576,
+      "reason": "EXPIRED",
+      "magnitude_score": 3.0
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "exit_date": "2026-04-08",
+      "entry_price": 50.04,
+      "exit_price": 53.45,
+      "shares": 50,
+      "pnl_pct": 6.814548361310968,
+      "pnl_dollar": 170.5,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "exit_date": "2026-04-08",
+      "entry_price": 50.04,
+      "exit_price": 53.45,
+      "shares": 50,
+      "pnl_pct": 6.814548361310968,
+      "pnl_dollar": 170.5,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "exit_date": "2026-04-08",
+      "entry_price": 50.04,
+      "exit_price": 53.45,
+      "shares": 50,
+      "pnl_pct": 6.814548361310968,
+      "pnl_dollar": 170.5,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "exit_date": "2026-04-08",
+      "entry_price": 50.04,
+      "exit_price": 53.45,
+      "shares": 50,
+      "pnl_pct": 6.814548361310968,
+      "pnl_dollar": 170.5,
+      "reason": "EXPIRED",
+      "magnitude_score": 4.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-04-01",
+      "exit_date": "2026-04-08",
+      "entry_price": 50.04,
+      "exit_price": 53.45,
+      "shares": 50,
+      "pnl_pct": 6.814548361310968,
+      "pnl_dollar": 170.5,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.333333333333333
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-03-30",
+      "exit_date": "2026-04-08",
+      "entry_price": 47.86000061035156,
+      "exit_price": 53.45,
+      "shares": 50,
+      "pnl_pct": 11.679898283242785,
+      "pnl_dollar": 279.4999694824219,
+      "reason": "EXPIRED",
+      "magnitude_score": 5.666666666666667
+    }
+  ],
+  "pending_signals": [],
+  "pending_short_signals": [],
+  "capital_history": [
+    [
+      "2026-01-02",
+      96890.0032043457
+    ],
+    [
+      "2026-01-05",
+      98492.00286865234
+    ],
+    [
+      "2026-01-06",
+      104175.9992980957
+    ],
+    [
+      "2026-01-07",
+      102339.5030593872
+    ],
+    [
+      "2026-01-08",
+      98343.50406646729
+    ],
+    [
+      "2026-01-09",
+      104840.50285339355
+    ],
+    [
+      "2026-01-12",
+      105893.50406646729
+    ],
+    [
+      "2026-01-13",
+      108030.50128936768
+    ],
+    [
+      "2026-01-14",
+      107256.003074646
+    ],
+    [
+      "2026-01-15",
+      111365.50430297852
+    ],
+    [
+      "2026-01-16",
+      115045.00137329102
+    ],
+    [
+      "2026-01-20",
+      111341.49990081787
+    ],
+    [
+      "2026-01-21",
+      118537.50118255615
+    ],
+    [
+      "2026-01-22",
+      118833.50337982178
+    ],
+    [
+      "2026-01-23",
+      116025.49968719482
+    ],
+    [
+      "2026-01-26",
+      114925.50273895264
+    ],
+    [
+      "2026-01-27",
+      120289.50038909912
+    ],
+    [
+      "2026-01-28",
+      126871.49654388428
+    ],
+    [
+      "2026-01-29",
+      127403.50337982178
+    ],
+    [
+      "2026-01-30",
+      115807.00298309326
+    ],
+    [
+      "2026-02-02",
+      120026.49738311768
+    ],
+    [
+      "2026-02-03",
+      113954.50149536133
+    ],
+    [
+      "2026-02-04",
+      108812.9997253418
+    ],
+    [
+      "2026-02-05",
+      108871.00074768066
+    ],
+    [
+      "2026-02-06",
+      113349.00177001953
+    ],
+    [
+      "2026-02-09",
+      113821.00143432617
+    ],
+    [
+      "2026-02-10",
+      113890.50159454346
+    ],
+    [
+      "2026-02-11",
+      113702.00119018555
+    ],
+    [
+      "2026-02-12",
+      113990.50148010254
+    ],
+    [
+      "2026-02-13",
+      113624.50160980225
+    ],
+    [
+      "2026-02-17",
+      113696.50188446045
+    ],
+    [
+      "2026-02-18",
+      113368.50154876709
+    ],
+    [
+      "2026-02-19",
+      113552.50133514404
+    ],
+    [
+      "2026-02-20",
+      113232.50133514404
+    ],
+    [
+      "2026-02-23",
+      113544.50099945068
+    ],
+    [
+      "2026-02-24",
+      112968.50154876709
+    ],
+    [
+      "2026-02-25",
+      112456.5009689331
+    ],
+    [
+      "2026-02-26",
+      113496.50188446045
+    ],
+    [
+      "2026-02-27",
+      114280.50090789795
+    ],
+    [
+      "2026-03-02",
+      114112.50087738037
+    ],
+    [
+      "2026-03-03",
+      116056.50142669678
+    ],
+    [
+      "2026-03-04",
+      115080.9005355835
+    ],
+    [
+      "2026-03-05",
+      115543.70128631592
+    ],
+    [
+      "2026-03-06",
+      118101.30054473877
+    ],
+    [
+      "2026-03-09",
+      116488.30081939697
+    ],
+    [
+      "2026-03-10",
+      116231.30123138428
+    ],
+    [
+      "2026-03-11",
+      116016.10118865967
+    ],
+    [
+      "2026-03-12",
+      117042.30144500732
+    ],
+    [
+      "2026-03-13",
+      116546.30115509033
+    ],
+    [
+      "2026-03-16",
+      115857.20138549805
+    ],
+    [
+      "2026-03-17",
+      115779.80167388916
+    ],
+    [
+      "2026-03-18",
+      116165.70190429688
+    ],
+    [
+      "2026-03-19",
+      116338.2011795044
+    ],
+    [
+      "2026-03-20",
+      115549.70134735107
+    ],
+    [
+      "2026-03-23",
+      116140.70056915283
+    ],
+    [
+      "2026-03-24",
+      116462.10079193115
+    ],
+    [
+      "2026-03-25",
+      117368.40209960938
+    ],
+    [
+      "2026-03-26",
+      113604.90226745605
+    ],
+    [
+      "2026-03-27",
+      111954.9015045166
+    ],
+    [
+      "2026-03-31",
+      108908.40116882323
+    ],
+    [
+      "2026-04-01",
+      115088.40116882323
+    ],
+    [
+      "2026-04-02",
+      107379.85616882317
+    ],
+    [
+      "2026-04-06",
+      125301.30216882317
+    ],
+    [
+      "2026-04-07",
+      124405.65116882323
+    ],
+    [
+      "2026-04-08",
+      142518.45118103025
+    ]
+  ],
+  "last_signal_date": "2026-04-07",
+  "last_executed_date": "2026-04-08"
+}
