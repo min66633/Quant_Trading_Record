@@ -1,0 +1,19 @@
+{
+  "date": "2026-01-30",
+  "trades": 1,
+  "wins": 1,
+  "day_pnl": 383.0,
+  "details": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "entry_price": 51.8,
+      "exit_price": 59.46,
+      "shares": 50,
+      "pnl_pct": 14.79,
+      "pnl_dollar": 383.0,
+      "reason": "EXPIRED"
+    }
+  ]
+}

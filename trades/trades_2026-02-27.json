@@ -1,0 +1,30 @@
+{
+  "date": "2026-02-27",
+  "trades": 2,
+  "wins": 2,
+  "day_pnl": 152.0,
+  "details": [
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-01-22",
+      "entry_price": 37.4,
+      "exit_price": 38.6,
+      "shares": 40,
+      "pnl_pct": 3.21,
+      "pnl_dollar": 48.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-02-20",
+      "entry_price": 36.0,
+      "exit_price": 38.6,
+      "shares": 40,
+      "pnl_pct": 7.22,
+      "pnl_dollar": 104.0,
+      "reason": "EXPIRED"
+    }
+  ]
+}

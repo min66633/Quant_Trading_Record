@@ -1,0 +1,118 @@
+{
+  "date": "2026-02-06",
+  "trades": 10,
+  "wins": 10,
+  "day_pnl": 4675.0,
+  "details": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-05",
+      "entry_price": 50.35,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 19.15,
+      "pnl_dollar": 482.0,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "entry_price": 51.8,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 15.81,
+      "pnl_dollar": 409.5,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-01-08",
+      "entry_price": 51.8,
+      "exit_price": 59.99,
+      "shares": 50,
+      "pnl_pct": 15.81,
+      "pnl_dollar": 409.5,
+      "reason": "EXPIRED"
+    }
+  ]
+}
