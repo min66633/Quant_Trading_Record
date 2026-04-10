@@ -1,0 +1,66 @@
+{
+  "date": "2026-01-08",
+  "day_entries": 7,
+  "day_exits": 0,
+  "day_wins": 0,
+  "day_losses": 0,
+  "day_pnl": 0,
+  "cumulative_entries": 32,
+  "cumulative_exits": 0,
+  "cumulative_wins": 0,
+  "cumulative_losses": 0,
+  "cumulative_win_rate": "0%",
+  "cumulative_pnl": 0,
+  "entries": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 51.8,
+      "shares": 50,
+      "hold_days": ""
+    }
+  ],
+  "exits": []
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-01-21",
+  "day_entries": 1,
+  "day_exits": 0,
+  "day_wins": 0,
+  "day_losses": 0,
+  "day_pnl": 0,
+  "cumulative_entries": 35,
+  "cumulative_exits": 3,
+  "cumulative_wins": 3,
+  "cumulative_losses": 0,
+  "cumulative_win_rate": "100.0%",
+  "cumulative_pnl": 1494.5,
+  "entries": [
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_price": 41.8,
+      "shares": 40,
+      "hold_days": ""
+    }
+  ],
+  "exits": []
+}

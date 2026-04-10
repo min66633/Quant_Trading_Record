@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-30",
+  "day_entries": 9,
+  "day_exits": 0,
+  "day_wins": 0,
+  "day_losses": 0,
+  "day_pnl": 0,
+  "cumulative_entries": 77,
+  "cumulative_exits": 51,
+  "cumulative_wins": 44,
+  "cumulative_losses": 7,
+  "cumulative_win_rate": "86.3%",
+  "cumulative_pnl": 15399.4,
+  "entries": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": ""
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 17
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_price": 47.86,
+      "shares": 50,
+      "hold_days": 10
+    }
+  ],
+  "exits": []
+}

@@ -1,15 +1,18 @@
 {
   "date": "2026-02-04",
-  "day_trades": 3,
+  "day_entries": 0,
+  "day_exits": 3,
   "day_wins": 3,
   "day_losses": 0,
   "day_pnl": 386.0,
-  "cumulative_trades": 21,
+  "cumulative_entries": 37,
+  "cumulative_exits": 21,
   "cumulative_wins": 19,
   "cumulative_losses": 2,
   "cumulative_win_rate": "90.5%",
   "cumulative_pnl": 6740.5,
-  "details": [
+  "entries": [],
+  "exits": [
     {
       "ticker": "SOXL",
       "strategy": "LONG",
