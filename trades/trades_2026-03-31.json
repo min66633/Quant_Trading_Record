@@ -1,8 +1,14 @@
 {
   "date": "2026-03-31",
-  "trades": 12,
-  "wins": 3,
+  "day_trades": 12,
+  "day_wins": 3,
+  "day_losses": 9,
   "day_pnl": -3666.4,
+  "cumulative_trades": 63,
+  "cumulative_wins": 47,
+  "cumulative_losses": 16,
+  "cumulative_win_rate": "74.6%",
+  "cumulative_pnl": 11733.0,
   "details": [
     {
       "ticker": "SOXS",

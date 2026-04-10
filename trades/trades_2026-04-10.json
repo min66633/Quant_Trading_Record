@@ -1,8 +1,14 @@
 {
   "date": "2026-04-10",
-  "trades": 9,
-  "wins": 9,
+  "day_trades": 9,
+  "day_wins": 9,
+  "day_losses": 0,
   "day_pnl": 12705.75,
+  "cumulative_trades": 81,
+  "cumulative_wins": 63,
+  "cumulative_losses": 18,
+  "cumulative_win_rate": "77.8%",
+  "cumulative_pnl": 25413.4,
   "details": [
     {
       "ticker": "SOXL",
