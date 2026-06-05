@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-21",
+  "day_trades": 1,
+  "day_wins": 1,
+  "day_losses": 0,
+  "day_pnl": 3251.5,
+  "cumulative_trades": 147,
+  "cumulative_wins": 128,
+  "cumulative_losses": 19,
+  "cumulative_win_rate": "87.1%",
+  "cumulative_pnl": 254511.26,
+  "details": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 95.97,
+      "exit": 161.0,
+      "shares": 50,
+      "pnl_pct": 67.76,
+      "pnl_dollar": 3251.5,
+      "reason": "EXPIRED"
+    }
+  ]
+}

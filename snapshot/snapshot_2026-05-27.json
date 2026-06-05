@@ -1,0 +1,179 @@
+{
+  "date": "2026-05-27",
+  "time": "10:33:15 KST",
+  "cash": 199505.91,
+  "positions": 16,
+  "portfolio_value": 373889.9,
+  "portfolio_return": "+273.89%",
+  "day_entries": 2,
+  "day_exits": 0,
+  "day_realized_pnl": 0,
+  "cumulative_trades": 148,
+  "cumulative_win_rate": "129/148 (87.2%)",
+  "cumulative_pnl": 257995.16,
+  "entries": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 242.66,
+      "shares": 50,
+      "hold": 7,
+      "exit_target": "2026-06-05"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 242.66,
+      "shares": 50,
+      "hold": 20,
+      "exit_target": "2026-06-25"
+    }
+  ],
+  "exits": [],
+  "holdings": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-01",
+      "entry_price": 124.39,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-06-01"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-06",
+      "entry_price": 157.92,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-06-04"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-07",
+      "entry_price": 157.5,
+      "shares": 50,
+      "hold_days": 15,
+      "exit_target": "2026-05-29"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-07",
+      "entry_price": 157.5,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-06-05"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-22",
+      "entry_price": 184.74,
+      "shares": 50,
+      "hold_days": 7,
+      "exit_target": "2026-06-03"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 15,
+      "exit_target": "2026-06-16"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 15,
+      "exit_target": "2026-06-16"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-06-24"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 7,
+      "exit_target": "2026-06-04"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 7,
+      "exit_target": "2026-06-04"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 23,
+      "exit_target": "2026-06-29"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 7,
+      "exit_target": "2026-06-04"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-06-24"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-26",
+      "entry_price": 211.38,
+      "shares": 50,
+      "hold_days": 10,
+      "exit_target": "2026-06-09"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-27",
+      "entry_price": 242.66,
+      "shares": 50,
+      "hold_days": 7,
+      "exit_target": "2026-06-05"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-05-27",
+      "entry_price": 242.66,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-06-25"
+    }
+  ]
+}
