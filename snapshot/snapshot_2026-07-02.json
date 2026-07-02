@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-02",
+  "time": "06:54:41 KST",
+  "cash": 357780.13,
+  "positions": 0,
+  "portfolio_value": 357780.13,
+  "portfolio_return": "+257.78%",
+  "day_entries": 0,
+  "day_exits": 2,
+  "day_realized_pnl": -5212.0,
+  "cumulative_trades": 180,
+  "cumulative_win_rate": "144/180 (80.0%)",
+  "cumulative_pnl": 257780.14,
+  "entries": [],
+  "exits": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 247.61,
+      "exit": 195.49,
+      "shares": 50,
+      "pnl_pct": -21.05,
+      "pnl_dollar": -2606.0,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 247.61,
+      "exit": 195.49,
+      "shares": 50,
+      "pnl_pct": -21.05,
+      "pnl_dollar": -2606.0,
+      "reason": "STOP_LOSS"
+    }
+  ],
+  "holdings": []
+}
