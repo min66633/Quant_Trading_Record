@@ -1,0 +1,17 @@
+{
+  "date": "2026-07-08",
+  "time": "05:31:47 KST",
+  "cash": 357780.13,
+  "positions": 0,
+  "portfolio_value": 357780.13,
+  "portfolio_return": "+257.78%",
+  "day_entries": 0,
+  "day_exits": 0,
+  "day_realized_pnl": 0,
+  "cumulative_trades": 180,
+  "cumulative_win_rate": "144/180 (80.0%)",
+  "cumulative_pnl": 257780.14,
+  "entries": [],
+  "exits": [],
+  "holdings": []
+}
