@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-13",
+  "time": "10:53:45 KST",
+  "cash": 287840.77,
+  "positions": 8,
+  "portfolio_value": 353988.77,
+  "portfolio_return": "+253.99%",
+  "day_entries": 8,
+  "day_exits": 0,
+  "day_realized_pnl": 0,
+  "cumulative_trades": 180,
+  "cumulative_win_rate": "144/180 (80.0%)",
+  "cumulative_pnl": 257780.14,
+  "entries": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 15,
+      "exit_target": "2026-08-03"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 3,
+      "exit_target": "2026-07-16"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 3,
+      "exit_target": "2026-07-16"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "price": 174.85,
+      "shares": 50,
+      "hold": 10,
+      "exit_target": "2026-07-27"
+    }
+  ],
+  "exits": [],
+  "holdings": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-08-10"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 15,
+      "exit_target": "2026-08-03"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 3,
+      "exit_target": "2026-07-16"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 3,
+      "exit_target": "2026-07-16"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-13",
+      "entry_price": 174.85,
+      "shares": 50,
+      "hold_days": 10,
+      "exit_target": "2026-07-27"
+    }
+  ]
+}
