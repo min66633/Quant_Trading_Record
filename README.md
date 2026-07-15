@@ -1,4 +1,10 @@
-Quantitative Trading Strategy - Paper Trading Record
+# Quantitative Trading Strategy — Paper Trading Record
+
+![Daily Dashboard](dashboard.png)
+
+*Dashboard updates automatically after each market close.*
+
+---
 
 - Asset: US-listed ETFs
 - Strategy: Proprietary signal-based systematic trading
