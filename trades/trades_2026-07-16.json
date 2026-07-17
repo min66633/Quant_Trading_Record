@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-16",
+  "day_trades": 3,
+  "day_wins": 2,
+  "day_losses": 1,
+  "day_pnl": -1222.05,
+  "cumulative_trades": 189,
+  "cumulative_wins": 146,
+  "cumulative_losses": 43,
+  "cumulative_win_rate": "77.2%",
+  "cumulative_pnl": 245665.54,
+  "details": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 174.85,
+      "exit": 183.77,
+      "shares": 50,
+      "pnl_pct": 5.1,
+      "pnl_dollar": 446.08,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 174.85,
+      "exit": 183.77,
+      "shares": 50,
+      "pnl_pct": 5.1,
+      "pnl_dollar": 446.08,
+      "reason": "EXPIRED"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 188.17,
+      "exit": 145.89,
+      "shares": 50,
+      "pnl_pct": -22.47,
+      "pnl_dollar": -2114.21,
+      "reason": "STOP_LOSS"
+    }
+  ]
+}
