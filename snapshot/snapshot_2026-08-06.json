@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-06",
+  "time": "07:41:47 KST",
+  "cash": 308736.57,
+  "positions": 4,
+  "portfolio_value": 330376.47,
+  "portfolio_return": "+230.38%",
+  "day_entries": 1,
+  "day_exits": 0,
+  "day_realized_pnl": 0,
+  "cumulative_trades": 200,
+  "cumulative_win_rate": "147/200 (73.5%)",
+  "cumulative_pnl": 229836.4,
+  "entries": [
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "price": 47.2,
+      "shares": 40,
+      "hold": 23,
+      "exit_target": "2026-09-09"
+    }
+  ],
+  "exits": [],
+  "holdings": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-07-28",
+      "entry_price": 113.16,
+      "shares": 50,
+      "hold_days": 15,
+      "exit_target": "2026-08-18"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-08-05",
+      "entry_price": 135.54,
+      "shares": 50,
+      "hold_days": 20,
+      "exit_target": "2026-09-02"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry_date": "2026-08-05",
+      "entry_price": 135.54,
+      "shares": 50,
+      "hold_days": 23,
+      "exit_target": "2026-09-08"
+    },
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry_date": "2026-08-06",
+      "entry_price": 47.2,
+      "shares": 40,
+      "hold_days": 23,
+      "exit_target": "2026-09-09"
+    }
+  ]
+}
