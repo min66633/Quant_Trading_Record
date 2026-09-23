@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-22",
+  "day_trades": 1,
+  "day_wins": 0,
+  "day_losses": 1,
+  "day_pnl": -366.4,
+  "cumulative_trades": 209,
+  "cumulative_wins": 150,
+  "cumulative_losses": 59,
+  "cumulative_win_rate": "71.8%",
+  "cumulative_pnl": 228783.37,
+  "details": [
+    {
+      "ticker": "SOXS",
+      "strategy": "SHORT",
+      "entry": 44.05,
+      "exit": 34.89,
+      "shares": 40,
+      "pnl_pct": -20.79,
+      "pnl_dollar": -366.4,
+      "reason": "STOP_LOSS"
+    }
+  ]
+}
