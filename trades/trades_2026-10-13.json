@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-13",
+  "day_trades": 28,
+  "day_wins": 0,
+  "day_losses": 28,
+  "day_pnl": -42633.47,
+  "cumulative_trades": 249,
+  "cumulative_wins": 160,
+  "cumulative_losses": 89,
+  "cumulative_win_rate": "64.3%",
+  "cumulative_pnl": 199427.59,
+  "details": [
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 161.0,
+      "exit": 128.5,
+      "shares": 50,
+      "pnl_pct": -20.19,
+      "pnl_dollar": -1625.0,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 161.0,
+      "exit": 128.5,
+      "shares": 50,
+      "pnl_pct": -20.19,
+      "pnl_dollar": -1625.0,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.53,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.31,
+      "pnl_dollar": -1508.47,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 149.38,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.77,
+      "pnl_dollar": -1550.96,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.98,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.56,
+      "pnl_dollar": -1531.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.98,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.56,
+      "pnl_dollar": -1531.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.98,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.56,
+      "pnl_dollar": -1531.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.14,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.11,
+      "pnl_dollar": -1489.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.14,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.11,
+      "pnl_dollar": -1489.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.14,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.11,
+      "pnl_dollar": -1489.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.14,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.11,
+      "pnl_dollar": -1489.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 148.14,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.11,
+      "pnl_dollar": -1489.2,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 149.27,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.71,
+      "pnl_dollar": -1545.7,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 149.27,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.71,
+      "pnl_dollar": -1545.7,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 149.27,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.71,
+      "pnl_dollar": -1545.7,
+      "reason": "STOP_LOSS"
+    },
+    {
+      "ticker": "SOXL",
+      "strategy": "LONG",
+      "entry": 149.27,
+      "exit": 118.36,
+      "shares": 50,
+      "pnl_pct": -20.71,
+      "pnl_dollar": -1545.7,
+      "reason": "STOP_LOSS"
+    }
+  ]
+}
